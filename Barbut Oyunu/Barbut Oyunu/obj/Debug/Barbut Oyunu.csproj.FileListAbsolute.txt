@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\bin\Debug\Barbut Oyunu.exe.config
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\bin\Debug\Barbut Oyunu.exe
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\bin\Debug\Barbut Oyunu.pdb
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut Oyunu.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut_Oyunu.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut Oyunu.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut Oyunu.exe
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut Oyunu.pdb
+C:\Users\Metin\source\repos\Metin Form\Barbut Oyunu\Barbut Oyunu\obj\Debug\Barbut_Oyunu.Barbut.resources
